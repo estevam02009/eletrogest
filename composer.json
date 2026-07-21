@@ -1,0 +1,19 @@
+{
+    "name": "smartsoft/eletrogest",
+    "description": "Sistema de gestão para lojas de eletrodomésticos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manoel Estevam",
+            "email": "manoel.neto53861@alunos.ufersa.edu.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
